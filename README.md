@@ -1,8 +1,8 @@
 # Alura-JavaScript
 
 Link do curso:
-https://cursos.alura.com.br/course/bootstrap-landing-page
+https://www.alura.com.br/curso-online-javascript-programando-na-linguagem-web
 
 Link do certificado:
-https://cursos.alura.com.br/certificate/ianmacielcv/bootstrap-landing-page
+https://cursos.alura.com.br/certificate/ianmacielcv/javascript-programando-na-linguagem-web
 
